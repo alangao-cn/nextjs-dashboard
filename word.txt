@@ -25,7 +25,6 @@ optimizing
 pixels
 multiple
 nested
-colocation
 accessible
 associated
 preserves 
