@@ -6,5 +6,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 nextjs-dashboard-postgres
 
-https://vercel.com/
+## 教程文档
 https://nextjs.org/learn/dashboard-app
+- .env文件需要自己创建 https://vercel.com/
