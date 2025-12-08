@@ -9,3 +9,5 @@ nextjs-dashboard-postgres
 ## 教程文档
 https://nextjs.org/learn/dashboard-app
 - .env文件需要自己创建 https://vercel.com/
+
+login: user@nextmail.com == 123456
